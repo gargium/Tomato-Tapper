@@ -10,4 +10,8 @@
 
 @interface ViewController : UIViewController
 
+-(BOOL) prefersStatusBarHidden;
+-(void) gameDefaults;
+-(void)imageTapped:(UITapGestureRecognizer *) gestureRecognizer;
+
 @end

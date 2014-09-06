@@ -22,6 +22,12 @@
 		9EDA657A19BA633E00D7B4F5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EDA655919BA633D00D7B4F5 /* UIKit.framework */; };
 		9EDA658219BA633E00D7B4F5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA658019BA633E00D7B4F5 /* InfoPlist.strings */; };
 		9EDA658419BA633E00D7B4F5 /* Tomato_TapperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EDA658319BA633E00D7B4F5 /* Tomato_TapperTests.m */; };
+		9EDA659119BA67C000D7B4F5 /* tomatotapperBlueBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA658D19BA67C000D7B4F5 /* tomatotapperBlueBG.png */; };
+		9EDA659219BA67C000D7B4F5 /* tomatotapperBlueBG.psd in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA658E19BA67C000D7B4F5 /* tomatotapperBlueBG.psd */; };
+		9EDA659319BA67C000D7B4F5 /* tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA658F19BA67C000D7B4F5 /* tomato.png */; };
+		9EDA659419BA67C000D7B4F5 /* tomato.psd in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA659019BA67C000D7B4F5 /* tomato.psd */; };
+		9EDA659719BA7B1000D7B4F5 /* tomatotappertitle.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA659519BA7B1000D7B4F5 /* tomatotappertitle.png */; };
+		9EDA659819BA7B1000D7B4F5 /* tomatotappertitle.psd in Resources */ = {isa = PBXBuildFile; fileRef = 9EDA659619BA7B1000D7B4F5 /* tomatotappertitle.psd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +61,12 @@
 		9EDA657F19BA633E00D7B4F5 /* Tomato TapperTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tomato TapperTests-Info.plist"; sourceTree = "<group>"; };
 		9EDA658119BA633E00D7B4F5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9EDA658319BA633E00D7B4F5 /* Tomato_TapperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tomato_TapperTests.m; sourceTree = "<group>"; };
+		9EDA658D19BA67C000D7B4F5 /* tomatotapperBlueBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomatotapperBlueBG.png; sourceTree = "<group>"; };
+		9EDA658E19BA67C000D7B4F5 /* tomatotapperBlueBG.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = tomatotapperBlueBG.psd; sourceTree = "<group>"; };
+		9EDA658F19BA67C000D7B4F5 /* tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato.png; sourceTree = "<group>"; };
+		9EDA659019BA67C000D7B4F5 /* tomato.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = tomato.psd; sourceTree = "<group>"; };
+		9EDA659519BA7B1000D7B4F5 /* tomatotappertitle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tomatotappertitle.png; path = ../tomatotappertitle.png; sourceTree = "<group>"; };
+		9EDA659619BA7B1000D7B4F5 /* tomatotappertitle.psd */ = {isa = PBXFileReference; lastKnownFileType = file; name = tomatotappertitle.psd; path = ../tomatotappertitle.psd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +132,12 @@
 				9EDA656A19BA633D00D7B4F5 /* Main_iPad.storyboard */,
 				9EDA656D19BA633D00D7B4F5 /* ViewController.h */,
 				9EDA656E19BA633D00D7B4F5 /* ViewController.m */,
+				9EDA658D19BA67C000D7B4F5 /* tomatotapperBlueBG.png */,
+				9EDA658E19BA67C000D7B4F5 /* tomatotapperBlueBG.psd */,
+				9EDA658F19BA67C000D7B4F5 /* tomato.png */,
+				9EDA659019BA67C000D7B4F5 /* tomato.psd */,
+				9EDA659519BA7B1000D7B4F5 /* tomatotappertitle.png */,
+				9EDA659619BA7B1000D7B4F5 /* tomatotappertitle.psd */,
 				9EDA657019BA633D00D7B4F5 /* Images.xcassets */,
 				9EDA655C19BA633D00D7B4F5 /* Supporting Files */,
 			);
@@ -232,8 +250,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EDA656C19BA633D00D7B4F5 /* Main_iPad.storyboard in Resources */,
+				9EDA659119BA67C000D7B4F5 /* tomatotapperBlueBG.png in Resources */,
+				9EDA659219BA67C000D7B4F5 /* tomatotapperBlueBG.psd in Resources */,
+				9EDA659419BA67C000D7B4F5 /* tomato.psd in Resources */,
 				9EDA657119BA633D00D7B4F5 /* Images.xcassets in Resources */,
+				9EDA659319BA67C000D7B4F5 /* tomato.png in Resources */,
+				9EDA659819BA7B1000D7B4F5 /* tomatotappertitle.psd in Resources */,
 				9EDA656919BA633D00D7B4F5 /* Main_iPhone.storyboard in Resources */,
+				9EDA659719BA7B1000D7B4F5 /* tomatotappertitle.png in Resources */,
 				9EDA656019BA633D00D7B4F5 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
